@@ -801,3 +801,5 @@
 801:"wallet\hd-bip\derivation\main.go","wallet\hd-bip\derivation\Wallet.Hd.Bip.Derivation.Main.dpr"
 802:"wallet\hd-bip\derivation\main_test.go","wallet\hd-bip\derivation\Wallet.Hd.Bip.Derivation.Main.Test.pas"
 803:"wallet\hd-bip\main\main.go","wallet\hd-bip\main\Wallet.Hd.Bip.Main.Main.dpr"
+481:"log15\doc.go","log15\Log15.Doc.pas"
+540:"net\sync_state_test.go","net\Net.Sync.State.Test.pas"
